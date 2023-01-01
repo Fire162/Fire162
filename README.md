@@ -1,94 +1,22 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header"/>
-
 # Hi there, I'm Abhinav Maurya 👋
 
 ### 🚀 Student • Full-Stack Developer • AI Explorer
-
 *Building things, breaking things, and occasionally understanding them from Uttar Pradesh, India.*
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhinav.nexus)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavmaurya@duck.com)
-
-<br/>
+---
 
 ## 👨‍💻 About Me
-
 I'm a developer who thrives on turning random ideas into scalable, working projects. I'm deeply interested in the intersection of AI, backend infrastructure, and modern web development.
 
-🤖 **Exploring:** AI-powered applications and advanced prompt engineering
-
-🌐 **Building:** Efficient web apps, robust backend systems, and developer tools
-
-🧠 **Learning:** System design, scalability, and something new every day
-
-⚡ **Focus:** Practical, high-utility projects that solve actual problems
-
-<br/>
+- 🤖 **Exploring:** AI-powered applications and advanced prompt engineering
+- 🌐 **Building:** Efficient web apps, robust backend systems, and developer tools
+- 🧠 **Learning:** System design, scalability, and something new every day
 
 ## 🛠️ Tech Stack
+- **Frontend:** React, Next.js, Tailwind, Vite
+- **Backend:** Node.js, Express, NestJS, FastAPI, Python
+- **Infrastructure:** Supabase, MongoDB, Redis, PostgreSQL, Docker
 
-<b>Languages</b><br>
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,bash&theme=dark" />
-
-<br><br>
-
-<b>Frontend</b><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-
-<br><br>
-
-<b>Backend & APIs</b><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,graphql&theme=dark" />
-
-<br><br>
-
-<b>Database & Infrastructure</b><br>
-
-<img src="https://skillicons.dev/icons?i=supabase,mongodb,redis,postgres,docker,nginx&theme=dark" />
-
-<br/><br/>
-
-## 💖 Support & Crypto Donations
-
-If you find my projects helpful and want to support my open-source work, feel free to drop a donation!
-
-| Network / Chain | Icon | Wallet Address |
-| :--- | :---: | :--- |
-| **Bitcoin** | ![Bitcoin](https://img.shields.io/badge/-BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white) | `bc1qvqftwmsnx476hsyrcpl2280c0d2630l2ae0pgf` |
-| **Ethereum** | ![Ethereum](https://img.shields.io/badge/-ETH-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70` |
-| **Solana** | ![Solana](https://img.shields.io/badge/-SOL-14F195?style=flat-square&logo=solana&logoColor=black) | `6BSk3HUBsDTnBiwPKnqANY1iF3NwUud1HxVjQ8UMrciP` |
-| **Polygon** | ![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white) | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70` |
-| **Base** | ![Base](https://img.shields.io/badge/-Base-0052FF?style=flat-square&logo=ethereum&logoColor=white) | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70` |
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fire162&theme=radical&hide_border=true&background=0D1117&ring=32B88D&fire=32B88D&currStreakLabel=32B88D" alt="GitHub Streak" />
-
-<br/><br/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fire162&theme=react-dark&hide_border=true" alt="Activity Graph" />
-
-<br/>
-
-### ⚡ Fun Fact
-
-*Most projects start as "just trying something" and end up taking over your life.*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Fire162&color=32B88D&style=flat-square)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
+## 📫 Connect with Me
+- **Email:** [abhinavmaurya@duck.com](mailto:abhinavmaurya@duck.com)
+- **Instagram:** [@abhinav.nexus](https://instagram.com/abhinav.nexus)
