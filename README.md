@@ -1,0 +1,67 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header"/>
+
+<div align="center">
+
+# Hi there, I'm Abhinav Maurya 👋
+
+### 🚀 Student • Full-Stack Developer • AI Explorer
+*Building things, breaking things, and occasionally understanding them from Kerala, India.*
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhinav.nexus)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavmaurya@duck.com)
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+I'm a developer who thrives on turning random ideas into scalable, working projects. I'm deeply interested in the intersection of AI, backend infrastructure, and modern web development.
+
+- 🤖 **Exploring:** AI-powered applications and advanced prompt engineering
+- 🌐 **Building:** Efficient web apps, robust backend systems, and developer tools
+- 🧠 **Learning:** System design, scalability, and something new every day
+- ⚡ **Focus:** Practical, high-utility projects that solve actual problems
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" />
+  <br><br>
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+  <br><br>
+  <b>Backend & APIs</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
+  <br><br>
+  <b>Database & Infrastructure</b><br>
+  <img src="https://skillicons.dev/icons?i=supabase,mongodb,redis&theme=dark" />
+</div>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fire162&theme=radical&hide_border=true&background=0D1117&ring=32B88D&fire=32B88D&currStreakLabel=32B88D" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fire162&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Fun Fact
+*Most projects start as "just trying something" and end up taking over your life.*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Fire162&color=32B88D&style=flat-square)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
