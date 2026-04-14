@@ -29,16 +29,16 @@ I'm a developer who thrives on turning random ideas into scalable, working proje
 
 <div align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,bash&theme=dark" />
   <br><br>
   <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
   <br><br>
   <b>Backend & APIs</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,graphql&theme=dark" />
   <br><br>
   <b>Database & Infrastructure</b><br>
-  <img src="https://skillicons.dev/icons?i=supabase,mongodb,redis,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=supabase,mongodb,redis,postgres,docker,nginx&theme=dark" />
 </div>
 
 <br/>
