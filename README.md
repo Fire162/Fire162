@@ -5,7 +5,7 @@
 # Hi there, I'm Abhinav Maurya 👋
 
 ### 🚀 Student • Full-Stack Developer • AI Explorer
-*Building things, breaking things, and occasionally understanding them from Kerala, India.*
+*Building things, breaking things, and occasionally understanding them from Uttar Pradesh, India.*
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhinav.nexus)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavmaurya@duck.com)
