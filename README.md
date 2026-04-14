@@ -38,7 +38,7 @@ I'm a developer who thrives on turning random ideas into scalable, working proje
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
   <br><br>
   <b>Database & Infrastructure</b><br>
-  <img src="https://skillicons.dev/icons?i=supabase,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=supabase,mongodb,redis,sql&theme=dark" />
 </div>
 
 <br/>
