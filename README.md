@@ -43,15 +43,26 @@ I'm a developer who thrives on turning random ideas into scalable, working proje
 
 <br/>
 
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fire162&theme=radical&hide_border=true&background=0D1117&ring=32B88D&fire=32B88D&currStreakLabel=32B88D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=fire162&theme=radical&hide_border=true&background=0D1117&ring=32B88D&fire=32B88D&currStreakLabel=32B88D" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fire162&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+  <img height="180" src="https://github-readme-stats-one-virid-42.vercel.app/api/top-langs?username=Fire162&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true&bg_color=0D1117&title_color=32B88D&text_color=FFFFFF" />
+
+  <a href="https://github.com/Fire162/PW-extension">
+    <img height="180" src="https://github-readme-stats-one-virid-42.vercel.app/api/pin/?username=Fire162&repo=PW-extension&theme=radical&hide_border=true&bg_color=0D1117&title_color=32B88D&text_color=FFFFFF&icon_color=32B88D" />
+  </a>
+
+</div>
 
 <div align="center">
 
