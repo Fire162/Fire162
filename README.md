@@ -41,10 +41,23 @@ I'm a developer who thrives on turning random ideas into scalable, working proje
   <img src="https://skillicons.dev/icons?i=supabase,mongodb,redis,postgres,docker,nginx&theme=dark" />
 </div>
 
+
 <br/>
 
+## 💖 Support & Crypto Donations
 
-## 📈 GitHub Stats
+If you find my projects helpful and want to support my open-source work, feel free to drop a donation!
+
+| Network / Chain | Icon | Wallet Address |
+| :--- | :---: | :--- |
+| **Bitcoin** | ![Bitcoin](https://img.shields.io/badge/-BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white) | `bc1qvqftwmsnx476hsyrcpl2280c0d2630l2ae0pgf` |
+| **Ethereum** | ![Ethereum](https://img.shields.io/badge/-ETH-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70` |
+| **Solana** | ![Solana](https://img.shields.io/badge/-SOL-14F195?style=flat-square&logo=solana&logoColor=black) | `6BSk3HUBsDTnBiwPKnqANY1iF3NwUud1HxVjQ8UMrciP` |
+| **Polygon** | ![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white) | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70` |
+| **Base** | ![Base](https://img.shields.io/badge/-Base-0052FF?style=flat-square&logo=ethereum&logoColor=white) | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70` |
+
+<br/>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=fire162&theme=radical&hide_border=true&background=0D1117&ring=32B88D&fire=32B88D&currStreakLabel=32B88D" alt="GitHub Streak" />
