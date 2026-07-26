@@ -67,16 +67,6 @@ If you find my projects helpful and want to support my open-source work, feel fr
 
 <br/>
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-
-  <img height="180" src="https://github-readme-stats-one-virid-42.vercel.app/api/top-langs?username=Fire162&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true&bg_color=0D1117&title_color=32B88D&text_color=FFFFFF" />
-
-  <a href="https://github.com/Fire162/PW-extension">
-    <img height="180" src="https://github-readme-stats-one-virid-42.vercel.app/api/pin/?username=Fire162&repo=PW-extension&theme=radical&hide_border=true&bg_color=0D1117&title_color=32B88D&text_color=FFFFFF&icon_color=32B88D" />
-  </a>
-
-</div>
-
 <div align="center">
 
 ### ⚡ Fun Fact
