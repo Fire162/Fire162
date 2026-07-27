@@ -69,7 +69,7 @@ If you find my projects helpful and want to support my open-source work, feel fr
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fire162&theme=radical&hide_border=true&background=0D1117&ring=32B88D&fire=32B88D&currStreakLabel=32B88D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com//?user=fire162&theme=radical&hide_border=true&background=0D1117&ring=32B88D&fire=32B88D&currStreakLabel=32B88D" alt="GitHub Streak" />
 
 <br/><br/>
 
