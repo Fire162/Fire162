@@ -79,6 +79,7 @@ If you find my projects helpful and want to support my open-source work, feel fr
 ### ⚡ Fun Fact
 
 *Most projects start as "just trying something" and end up taking over your life.*
+
 *The worst mistake in your life is not taking risks, making mistakes, and learning from them.* ~ 🔥
 
 <br/>
