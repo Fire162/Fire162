@@ -4,12 +4,12 @@
 
 # Hi, I'm Abhinav Maurya 👋
 
-### 🚀 Student • Full-Stack Developer • AI Explorer • Builder
+### 🚀 Student • Full-Stack Developer • Systems & Automation Builder
 
-*Building things, breaking things, and occasionally figuring out why they broke — from Uttar Pradesh, India.*
+*Building scalable bots, AI agents, developer tools, and self-hosted infrastructure — from Uttar Pradesh, India.*
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/abhinav.nexus)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abhinavmaurya@duck.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhinav.nexus)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavmaurya@duck.com)
 
 </div>
 
@@ -17,164 +17,121 @@
 
 ## 👨‍💻 About Me
 
-I'm a student, developer, and builder who enjoys turning random ideas into actual working software.
+I'm a developer and builder focused on practical, high-impact software. I specialize in **autonomous AI agents, Linux systems & developer tooling, high-concurrency Telegram microservices, browser extensions, and full-stack web applications**.
 
-I'm particularly interested in **automation, AI-powered applications, developer tools, scalable backends, and self-hosted infrastructure**. I like building things that are not only technically interesting, but actually useful at scale.
-
-I've built and operated systems that have reached **3M+ users through Telegram bots**, with **100K+ combined subscribers across Telegram channels**.
-
-I'm also constantly experimenting with automation and agentic workflows, trying to automate as much of my workflow as possible without sacrificing quality.
+I prefer building and owning my infrastructure directly on Linux VPS environments rather than relying purely on managed cloud abstractions.
 
 ---
 
-## 📈 Things I've Built at Scale
+## 📈 Key Scale & Milestones
 
 <div align="center">
 
-|  🚀 | Achievement                                     |
-| :-: | :---------------------------------------------- |
-|  👥 | **3M+ users reached** through Telegram bots     |
-|  📢 | **100K+ combined subscribers** across Telegram  |
-|  🔥 | Built my own **Fire Tunnel**                    |
-|  📦 | Built my own **Fire Package Manager**           |
-| 🖥️ | Manage and deploy my own **VPS infrastructure** |
+| 🚀 | Achievement |
+| :-: | :--- |
+| 👥 | **3M+ total users reached** across Telegram bots and utilities |
+| 📢 | **100K+ combined community members & subscribers** across channels |
+| 🔥 | Built **Fire PM** (Linux Web UI & API for systemd process management) |
+| 🌐 | Built **Fire Tunnel** for custom service exposure and port forwarding |
+| 🖥️ | Manage and automate dedicated **self-hosted Linux VPS infrastructure** |
 
 </div>
 
 ---
 
-## 🔥 My Own Infrastructure
+## 🛠️ What I Build & Capabilities
 
-### Fire Tunnel
+### 1. 🤖 AI & Intelligent Systems
 
-A self-built tunneling system designed to expose local services and simplify development and deployment workflows.
-
-### Fire Package Manager
-
-My own package management tooling for Linux, built because sometimes the easiest way to solve a problem is to just build the damn tool yourself.
-
-> I enjoy building infrastructure instead of always relying on someone else's abstraction.
+* **SpamShield Honeypot API** — Gemini 2.5 Flash-powered conversational AI honeypot that actively engages scammers in real time and automatically extracts structured threat intelligence (UPI IDs, bank accounts, phishing links).
+* **SpamVortex** — High-performance Telegram moderation server combining FastAPI, Aiogram, and ONNX computer vision / NLP models for automated spam filtering and NSFW media scanning.
 
 ---
 
-## 🤝 Looking for Builders
+### 2. 🖥️ Developer Infrastructure & Linux Systems
 
-Got a genuinely interesting idea?
-
-### **Give me an idea and I'll build, fund, and deploy it.**
-
-I'm always interested in meeting people who are equally obsessed with building things that could actually make a difference.
-
-I can help with:
-
-* 🎨 Frontend & UI development
-* ⚙️ Backend & API architecture
-* 🗄️ Databases & data systems
-* 🤖 AI & automation
-* 🐳 Deployment & infrastructure
-* 🖥️ Self-hosted services & VPS management
-
-I generally prefer owning and managing my infrastructure instead of throwing everything onto AWS/Vercel just because that's the default.
+* **Fire PM (`fire-pm`)** — Developer-focused Web UI and REST/SSE API for the Fire Process Manager. Directly interfaces with Linux `systemd` to provide real-time CPU/RAM metrics, process lifecycle controls, and live `journalctl` log streaming.
+* **Fire Tunnel** — Self-built tunneling system to expose local services securely and streamline deployment and remote debugging.
+* **VPS Automation & Reliability** — Automated backup pipelines, system monitoring, and shell scripts managing 24/7 background microservices.
 
 ---
 
-## 🔭 Currently Exploring
+### 3. 🧩 Browser Extensions & Focus Tools
 
-🤖 **AI** — AI agents, AI-powered applications & advanced prompt engineering
-
-⚡ **Automation** — Eliminating repetitive work through software and agentic workflows
-
-🌐 **Web Development** — Fast, practical, production-oriented applications
-
-🧠 **Systems** — Architecture, scalability, networking & infrastructure
-
-🛠️ **Developer Tools** — Tools that make developers faster and their workflows less painful
+* **[Video Speed HUD & Watcher (PW Extension)](https://github.com/Fire162/PW-extension)** — Open-source Chromium extension featuring precision speed ramping, automatic silence skipping, and an on-screen study question timer.
+* **LectureLock** — Cross-platform desktop focus application (Electron) paired with a Manifest V3 companion extension to eliminate digital distractions during intensive study sessions.
+* **InstaPro Sender** — Manifest V3 browser extension for one-click Instagram Reel scheduling and automated asset publishing directly from the browser.
+* **[Postman Extension](https://github.com/Fire162/Postman)** — Lightweight in-browser HTTP client extension for rapid REST API testing (`GET`, `POST`, `PUT`, `DELETE`).
 
 ---
 
-## 🚀 Featured Projects
+### 4. ⚡ High-Scale Telegram Automation & Microservices
 
-| Project                     | Description                                                                  |
-| --------------------------- | ---------------------------------------------------------------------------- |
-| 🔥 **Fire Tunnel**          | Self-built tunneling infrastructure for exposing and managing local services |
-| 📦 **Fire Package Manager** | Custom Linux package management tooling                                      |
-| 🤖 **Telegram Automation**  | Automation systems and bots reaching **3M+ users**                           |
-| 🌐 **Web Applications**     | Full-stack applications built around practical problems                      |
-| ⚙️ **Developer Utilities**  | Tools designed to remove repetitive work and improve developer workflows     |
-
-> More projects are constantly being built, broken, rebuilt, and occasionally deployed.
+* **Utility & Media Processing Fleet** — High-concurrency Telegram bots (`Image2PDF`, `pdf2img`, `Merge_PDFbot`, `Telegram-IP-Lookup-Bot`) handling image conversions, document merging, and network lookups for millions of users.
+* **Ads Tracker Bot** — Real-time monitoring and aggregation engine that parses advertising URLs and inline keyboard data across targeted channels with multi-hour reporting.
+* **Commerce & Transaction Microservices** — Bot architectures (`crypto2speak`, `escrow`) managing payment webhooks, membership validation, and broadcast scheduling.
 
 ---
 
-## 🛠️ Tech Stack
+### 5. 🌐 Full-Stack Web Applications & Media Automation
 
-### Languages
+* **YouTube Automation Dashboard (`yt-automation`)** — Full-stack web dashboard with background job queues, automated media downloading, thumbnail extraction, and chunked YouTube Data API v3 uploads.
+* **VedStudy Video Platform** — Self-hosted video streaming proxy server supporting DASH & HLS playback via Shaka Player with CloudFront proxying.
+* **Go & Study (Deep Work)** — Minimalist deep-work focus timer with distraction counters and session analytics.
+* **Modern Web Dashboards** — Responsive Next.js and TypeScript frontend dashboards for system management and analytics.
 
+---
+
+## 🚀 Tech Stack
+
+### Languages & Scripts
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,bash,html,css&theme=dark" />
 </p>
 
-### Frontend
-
+### Frontend & Desktop
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,electron&theme=dark" />
 </p>
 
 ### Backend & APIs
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql&theme=dark" />
 </p>
 
-### Databases & Infrastructure
-
+### Databases, AI & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,docker,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,docker,nginx,linux&theme=dark" />
 </p>
 
 ---
 
-## 🧠 How I Like Building
+## 🤝 Open to Collaborations
 
-```text
-Idea
- ↓
-Prototype
- ↓
-Break it
- ↓
-Figure out why it broke
- ↓
-Fix it
- ↓
-Automate it
- ↓
-Deploy it
- ↓
-Scale it
- ↓
-Realize there's another problem
- ↓
-Repeat
-```
+Got a project or an idea that needs to be built?
 
-I care more about **shipping useful software** than making perfect architecture diagrams before writing the first line of code.
+### **"Give me an idea, and I'll build, fund, and deploy it."**
 
-But once something becomes important, I like going back and making it properly scalable, maintainable, and boring.
+I can help with:
+* 🤖 **AI Agents & LLM Pipelines** (autonomous workflows, RAG, prompt engineering, tool calling)
+* ⚙️ **Backend Architecture & APIs** (Node.js, FastAPI, Flask, SSE, WebSockets)
+* ⚡ **Automation & Bots** (Telegram ecosystems, browser automation, scraping)
+* 🧩 **Browser Extensions & Desktop Apps** (Manifest V3, Electron)
+* 🖥️ **Linux Infrastructure & DevOps** (systemd, self-hosted services, VPS management, Nginx)
 
 ---
 
-## 💖 Support My Work
+## 💖 Support My Open-Source Work
 
-If you've found one of my projects useful and want to support my open-source work, you can donate through crypto.
+If you find my projects or bots helpful, you can support my work via crypto:
 
-| Network / Chain |                                                    Icon                                                   | Wallet Address                                 |
-| :-------------- | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------- |
-| **Bitcoin**     |   ![Bitcoin](https://img.shields.io/badge/-BTC-F7931A?style=flat-square\&logo=bitcoin\&logoColor=white)   | `bc1qvqftwmsnx476hsyrcpl2280c0d2630l2ae0pgf`   |
-| **Ethereum**    |  ![Ethereum](https://img.shields.io/badge/-ETH-3C3C3D?style=flat-square\&logo=ethereum\&logoColor=white)  | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70`   |
-| **Solana**      |    ![Solana](https://img.shields.io/badge/-SOL-14F195?style=flat-square\&logo=solana\&logoColor=black)    | `6BSk3HUBsDTnBiwPKnqANY1iF3NwUud1HxVjQ8UMrciP` |
-| **Polygon**     | ![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat-square\&logo=polygon\&logoColor=white) | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70`   |
-| **Base**        |    ![Base](https://img.shields.io/badge/-Base-0052FF?style=flat-square\&logo=ethereum\&logoColor=white)   | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70`   |
+| Network / Chain | Icon | Wallet Address |
+| :--- | :---: | :--- |
+| **Bitcoin** | ![Bitcoin](https://img.shields.io/badge/-BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white) | `bc1qvqftwmsnx476hsyrcpl2280c0d2630l2ae0pgf` |
+| **Ethereum** | ![Ethereum](https://img.shields.io/badge/-ETH-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70` |
+| **Solana** | ![Solana](https://img.shields.io/badge/-SOL-14F195?style=flat-square&logo=solana&logoColor=black) | `6BSk3HUBsDTnBiwPKnqANY1iF3NwUud1HxVjQ8UMrciP` |
+| **Polygon** | ![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white) | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70` |
+| **Base** | ![Base](https://img.shields.io/badge/-Base-0052FF?style=flat-square&logo=ethereum&logoColor=white) | `0x3F9599d1DE33D7E275B51b5897901cdE02678D70` |
 
 ---
 
@@ -192,31 +149,9 @@ If you've found one of my projects useful and want to support my open-source wor
 
 ---
 
-## ⚡ Fun Facts
-
-* Most projects start as **"I'm just trying something"** and somehow become a full project.
-* I prefer a VPS I control over a managed platform I don't.
-* I will automate something if I have to do it more than twice.
-* Sometimes the best way to understand something is to break it first.
-* If a tool doesn't exist, I might just build it.
-* I'm probably overengineering something right now.
-
----
-
-## 💭 A Philosophy I Like
-
-> **"The worst mistake in life isn't taking a risk and failing.
-> It's never taking the risk, never making the mistake, and never learning from it."**
-
-And my own version:
-
-> ## **"Give me an idea, and I'll build it."** 🔥
-
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Fire162\&color=32B88D\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Fire162&color=32B88D&style=flat-square)
 
 <br/><br/>
 
