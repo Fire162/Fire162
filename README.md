@@ -43,6 +43,7 @@ I prefer building and owning my infrastructure directly on Linux VPS environment
 
 ### 1. 🤖 AI & Intelligent Systems
 
+* **[Telegram Bot Testing MCP Server (`telegram-bot-mcp`)](https://github.com/Fire162/telegram-bot-mcp)** — Open-source Model Context Protocol (MCP) server enabling AI coding agents (Antigravity, Claude, Cursor) to autonomously test, send commands, click inline keyboards, and run end-to-end regression suites against Telegram bots via native MTProto.
 * **SpamShield Honeypot API** — Gemini 2.5 Flash-powered conversational AI honeypot that actively engages scammers in real time and automatically extracts structured threat intelligence (UPI IDs, bank accounts, phishing links).
 * **SpamVortex** — High-performance Telegram moderation server combining FastAPI, Aiogram, and ONNX computer vision / NLP models for automated spam filtering and NSFW media scanning.
 
