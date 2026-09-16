@@ -39,10 +39,85 @@ I prefer building and owning my infrastructure directly on Linux VPS environment
 
 ---
 
+## 🌟 Featured Open-Source Projects
+
+<table width="100%">
+<tr>
+<td colspan="2" width="100%" valign="top">
+
+### 🔥 [Fire PM — Linux Process & Application Platform](https://github.com/Fire-Package/fire-pm)
+[![GitHub Stars](https://img.shields.io/github/stars/Fire-Package/fire-pm?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire-Package/fire-pm)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire-Package/fire-pm/blob/main/LICENSE)
+[![Platform: Linux](https://img.shields.io/badge/Platform-Linux%20systemd-lightgrey.svg?style=flat-square&logo=linux)](https://github.com/Fire-Package/fire-pm)
+[![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Next.js%20%7C%20systemd-32B88D?style=flat-square)](https://github.com/Fire-Package/fire-pm)
+
+Developer-centric process management platform directly managing Linux `systemd` services. Features a high-speed CLI, interactive Python Textual TUI, and a full-stack Next.js Web UI for real-time CPU/RAM telemetry, process controls, and live `journalctl` log streaming.
+
+**Tech:** `Python` • `Next.js` • `TypeScript` • `systemd` • `TailwindCSS` • `SSE`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [BrowserPilot](https://github.com/Fire162/browserpilot)
+[![GitHub Stars](https://img.shields.io/github/stars/Fire162/browserpilot?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire162/browserpilot)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire162/browserpilot/blob/main/LICENSE)
+[![Protocol: MCP](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol-blueviolet.svg?style=flat-square)](https://github.com/Fire162/browserpilot)
+
+Remote browser orchestration for AI agents. Bridges remote VPS AI agents (Antigravity, Claude, Cursor) with local desktop browsers via Model Context Protocol (MCP) and Chrome Extension for live DOM manipulation and automated navigation.
+
+**Tech:** `JavaScript` • `Model Context Protocol` • `Chrome MV3` • `WebSockets`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [Practice Wegenz](https://github.com/Fire162/practice-wegenz)
+[![GitHub Stars](https://img.shields.io/github/stars/Fire162/practice-wegenz?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire162/practice-wegenz)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire162/practice-wegenz/blob/main/LICENSE)
+[![Type: Web Platform](https://img.shields.io/badge/Type-Exam%20Platform-3178C6.svg?style=flat-square&logo=react)](https://github.com/Fire162/practice-wegenz)
+
+Full-featured open-source academic examination and mock test practice platform featuring full-screen timed tests, interactive question palette, instant analytics, and microservice-backed PYQ APIs.
+
+**Tech:** `TypeScript` • `React` • `Vite` • `TailwindCSS` • `Nginx` • `Fire PM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [Video Speed HUD & Watcher](https://github.com/Fire162/PW-extension)
+[![GitHub Stars](https://img.shields.io/github/stars/Fire162/PW-extension?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire162/PW-extension)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire162/PW-extension/blob/main/LICENSE)
+[![Type: Extension](https://img.shields.io/badge/Type-Chromium%20Extension-orange.svg?style=flat-square&logo=googlechrome)](https://github.com/Fire162/PW-extension)
+
+Chromium video player productivity extension featuring speed ramping via <kbd>Alt</kbd> + scroll, remaining playback time calculation, automatic silence skipping, and an on-screen study question timer HUD.
+
+**Tech:** `JavaScript` • `Chromium API` • `HTML5 Video DOM` • `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 📮 [Postman Browser Client](https://github.com/Fire162/Postman)
+[![GitHub Stars](https://img.shields.io/github/stars/Fire162/Postman?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire162/Postman)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire162/Postman/blob/main/LICENSE)
+[![Type: Extension](https://img.shields.io/badge/Type-Chrome%20Extension-FF6C37.svg?style=flat-square&logo=postman)](https://github.com/Fire162/Postman)
+
+Lightweight in-browser HTTP API client extension for testing and debugging REST endpoints on the fly without desktop application overhead. Supports `GET`, `POST`, `PUT`, `DELETE` with formatted JSON inspection.
+
+**Tech:** `TypeScript` • `Chrome Extensions API` • `Fetch API` • `JSON Viewer`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ What I Build & Capabilities
 
 ### 1. 🤖 AI & Intelligent Systems
 
+* **[BrowserPilot](https://github.com/Fire162/browserpilot)** — Model Context Protocol (MCP) server & Chrome extension enabling remote VPS AI agents to orchestrate and control local desktop browsers.
 * **[Telegram Testing MCP Server (`telegram-mcp`)](https://github.com/telegram-mcp/telegram-mcp)** — Open-source Model Context Protocol (MCP) server enabling AI coding agents (Antigravity, Claude, Cursor) to autonomously test, send commands, click inline keyboards, and run end-to-end regression suites against Telegram bots via native MTProto.
 * **SpamShield Honeypot API** — Gemini 2.5 Flash-powered conversational AI honeypot that actively engages scammers in real time and automatically extracts structured threat intelligence (UPI IDs, bank accounts, phishing links).
 * **SpamVortex** — High-performance Telegram moderation server combining FastAPI, Aiogram, and ONNX computer vision / NLP models for automated spam filtering and NSFW media scanning.
@@ -51,7 +126,7 @@ I prefer building and owning my infrastructure directly on Linux VPS environment
 
 ### 2. 🖥️ Developer Infrastructure & Linux Systems
 
-* **Fire PM (`fire-pm`)** — Developer-focused Web UI and REST/SSE API for the Fire Process Manager. Directly interfaces with Linux `systemd` to provide real-time CPU/RAM metrics, process lifecycle controls, and live `journalctl` log streaming.
+* **[Fire PM (`fire-pm`)](https://github.com/Fire-Package/fire-pm)** — Developer-focused Web UI and REST/SSE API for the Fire Process Manager. Directly interfaces with Linux `systemd` to provide real-time CPU/RAM metrics, process lifecycle controls, and live `journalctl` log streaming.
 * **Fire Tunnel** — Self-built tunneling system to expose local services securely and streamline deployment and remote debugging.
 * **VPS Automation & Reliability** — Automated backup pipelines, system monitoring, and shell scripts managing 24/7 background microservices.
 
@@ -76,6 +151,7 @@ I prefer building and owning my infrastructure directly on Linux VPS environment
 
 ### 5. 🌐 Full-Stack Web Applications & Media Automation
 
+* **[Practice Wegenz](https://github.com/Fire162/practice-wegenz)** — Full-featured academic examination and mock test practice platform featuring timed test suites, interactive palette, and PYQ microservice.
 * **YouTube Automation Dashboard (`yt-automation`)** — Full-stack web dashboard with background job queues, automated media downloading, thumbnail extraction, and chunked YouTube Data API v3 uploads.
 * **VedStudy Video Platform** — Self-hosted video streaming proxy server supporting DASH & HLS playback via Shaka Player with CloudFront proxying.
 * **Go & Study (Deep Work)** — Minimalist deep-work focus timer with distraction counters and session analytics.
