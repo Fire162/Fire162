@@ -109,6 +109,22 @@ An in-browser REST client extension for testing endpoints directly in Chrome. Su
 
 </td>
 </tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
+
+### [Spy Extension: Peer-to-Peer Remote Browser Control](https://github.com/Fire162/spy-extension)
+[![GitHub Stars](https://img.shields.io/github/stars/Fire162/spy-extension?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire162/spy-extension)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire162/spy-extension/blob/main/LICENSE)
+[![Type: Extension](https://img.shields.io/badge/Type-Chrome%20Extension-4285F4.svg?style=flat-square&logo=googlechrome)](https://github.com/Fire162/spy-extension)
+[![Protocol: WebRTC](https://img.shields.io/badge/Protocol-P2P%20WebRTC-333333.svg?style=flat-square&logo=webrtc)](https://github.com/Fire162/spy-extension)
+[![Web Client](https://img.shields.io/badge/Web%20Client-GitHub%20Pages-181717.svg?style=flat-square&logo=github)](https://fire162.github.io/spy-extension/)
+
+Peer-to-peer browser tab remote control and live viewing over WebRTC. Lets a remote user view and interact with a tab via a web link without installing software, secured with two-party PIN consent and Chrome DevTools Protocol input injection.
+
+**Tech:** `JavaScript` • `Chrome MV3` • `WebRTC` • `CDP` • `PeerJS` • `HTML5`
+
+</td>
+</tr>
 </table>
 
 ---
@@ -134,6 +150,7 @@ An in-browser REST client extension for testing endpoints directly in Chrome. Su
 
 ### 3. Browser Extensions & Focus Tools
 
+* **[Spy Extension](https://github.com/Fire162/spy-extension)**: Peer-to-peer browser tab remote control and live viewing over WebRTC with mutual two-party PIN consent and Chrome DevTools Protocol input injection.
 * **[Video Speed HUD & Watcher (PW Extension)](https://github.com/Fire162/PW-extension)**: Chromium extension for video playback speed control, silence skipping, and an on-screen timer.
 * **LectureLock**: Electron desktop app and companion Chrome extension that blocks distracting sites during study sessions.
 * **InstaPro Sender**: Chrome extension for scheduling Instagram Reels and publishing media directly from the browser.
