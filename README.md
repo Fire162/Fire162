@@ -4,9 +4,9 @@
 
 # Hi, I'm Abhinav Maurya 👋
 
-### 🚀 Student • Full-Stack Developer • Systems & Automation Builder
+### Student • Full-Stack Developer • Systems & Automation Builder
 
-*Building scalable bots, AI agents, developer tools, and self-hosted infrastructure — from Uttar Pradesh, India.*
+*Building bots, AI tools, browser extensions, and Linux services from Uttar Pradesh, India.*
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhinav.nexus)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavmaurya@duck.com)
@@ -15,43 +15,43 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a developer and builder focused on practical, high-impact software. I specialize in **autonomous AI agents, Linux systems & developer tooling, high-concurrency Telegram microservices, browser extensions, and full-stack web applications**.
+I'm a developer building practical tools and backend services. My work focuses on AI agents, Linux system utilities, Telegram bots, browser extensions, and web applications.
 
-I prefer building and owning my infrastructure directly on Linux VPS environments rather than relying purely on managed cloud abstractions.
+I run and maintain my own Linux servers directly.
 
 ---
 
-## 📈 Key Scale & Milestones
+## Key Scale & Milestones
 
 <div align="center">
 
-| 🚀 | Achievement |
+| | Achievement |
 | :-: | :--- |
-| 👥 | **3M+ total users reached** across Telegram bots and utilities |
-| 📢 | **100K+ combined community members & subscribers** across channels |
-| 🔥 | Built **Fire PM** (Linux Web UI & API for systemd process management) |
-| 🌐 | Built **Fire Tunnel** for custom service exposure and port forwarding |
-| 🖥️ | Manage and automate dedicated **self-hosted Linux VPS infrastructure** |
+| 👥 | 3M+ total users reached across Telegram bots and utilities |
+| 📢 | 100K+ combined community members and subscribers across channels |
+| 🔥 | Built Fire PM (Linux web UI and API for systemd process management) |
+| 🌐 | Built Fire Tunnel for service exposure and port forwarding |
+| 🖥️ | Manage and automate self-hosted Linux VPS infrastructure |
 
 </div>
 
 ---
 
-## 🌟 Featured Open-Source Projects
+## Featured Open-Source Projects
 
 <table width="100%">
 <tr>
 <td colspan="2" width="100%" valign="top">
 
-### 🔥 [Fire PM — Linux Process & Application Platform](https://github.com/Fire-Package/fire-pm)
+### [Fire PM: Linux Process & Application Platform](https://github.com/Fire-Package/fire-pm)
 [![GitHub Stars](https://img.shields.io/github/stars/Fire-Package/fire-pm?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire-Package/fire-pm)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire-Package/fire-pm/blob/main/LICENSE)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux%20systemd-lightgrey.svg?style=flat-square&logo=linux)](https://github.com/Fire-Package/fire-pm)
 [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Next.js%20%7C%20systemd-32B88D?style=flat-square)](https://github.com/Fire-Package/fire-pm)
 
-Developer-centric process management platform directly managing Linux `systemd` services. Features a high-speed CLI, interactive Python Textual TUI, and a full-stack Next.js Web UI for real-time CPU/RAM telemetry, process controls, and live `journalctl` log streaming.
+A process manager for Linux systemd services. It includes a terminal CLI, a Textual TUI, and a Next.js web dashboard with real-time CPU and RAM graphs, service controls, and live `journalctl` log streaming.
 
 **Tech:** `Python` • `Next.js` • `TypeScript` • `systemd` • `TailwindCSS` • `SSE`
 
@@ -60,24 +60,24 @@ Developer-centric process management platform directly managing Linux `systemd` 
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [BrowserPilot](https://github.com/Fire162/browserpilot)
+### [BrowserPilot](https://github.com/Fire162/browserpilot)
 [![GitHub Stars](https://img.shields.io/github/stars/Fire162/browserpilot?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire162/browserpilot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire162/browserpilot/blob/main/LICENSE)
 [![Protocol: MCP](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol-blueviolet.svg?style=flat-square)](https://github.com/Fire162/browserpilot)
 
-Remote browser orchestration for AI agents. Bridges remote VPS AI agents (Antigravity, Claude, Cursor) with local desktop browsers via Model Context Protocol (MCP) and Chrome Extension for live DOM manipulation and automated navigation.
+Connects AI coding agents on remote servers to local desktop browsers through MCP and a Chrome extension, letting agents inspect DOM elements and drive browser actions.
 
 **Tech:** `JavaScript` • `Model Context Protocol` • `Chrome MV3` • `WebSockets`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 [Practice Wegenz](https://github.com/Fire162/practice-wegenz)
+### [Practice Wegenz](https://github.com/Fire162/practice-wegenz)
 [![GitHub Stars](https://img.shields.io/github/stars/Fire162/practice-wegenz?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire162/practice-wegenz)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire162/practice-wegenz/blob/main/LICENSE)
 [![Type: Web Platform](https://img.shields.io/badge/Type-Exam%20Platform-3178C6.svg?style=flat-square&logo=react)](https://github.com/Fire162/practice-wegenz)
 
-Full-featured open-source academic examination and mock test practice platform featuring full-screen timed tests, interactive question palette, instant analytics, and microservice-backed PYQ APIs.
+An open-source mock exam platform with full-screen timed tests, an interactive question palette, test analytics, and past-year question APIs.
 
 **Tech:** `TypeScript` • `React` • `Vite` • `TailwindCSS` • `Nginx` • `Fire PM`
 
@@ -86,24 +86,24 @@ Full-featured open-source academic examination and mock test practice platform f
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Video Speed HUD & Watcher](https://github.com/Fire162/PW-extension)
+### [Video Speed HUD & Watcher](https://github.com/Fire162/PW-extension)
 [![GitHub Stars](https://img.shields.io/github/stars/Fire162/PW-extension?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire162/PW-extension)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire162/PW-extension/blob/main/LICENSE)
 [![Type: Extension](https://img.shields.io/badge/Type-Chromium%20Extension-orange.svg?style=flat-square&logo=googlechrome)](https://github.com/Fire162/PW-extension)
 
-Chromium video player productivity extension featuring speed ramping via <kbd>Alt</kbd> + scroll, remaining playback time calculation, automatic silence skipping, and an on-screen study question timer HUD.
+A Chromium extension for video playback that adds <kbd>Alt</kbd> + scroll playback speed adjustments, remaining-time calculation, silence skipping, and an on-screen study question timer.
 
 **Tech:** `JavaScript` • `Chromium API` • `HTML5 Video DOM` • `CSS`
 
 </td>
 <td width="50%" valign="top">
 
-### 📮 [Postman Browser Client](https://github.com/Fire162/Postman)
+### [Postman Browser Client](https://github.com/Fire162/Postman)
 [![GitHub Stars](https://img.shields.io/github/stars/Fire162/Postman?style=flat-square&logo=github&color=32B88D)](https://github.com/Fire162/Postman)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Fire162/Postman/blob/main/LICENSE)
 [![Type: Extension](https://img.shields.io/badge/Type-Chrome%20Extension-FF6C37.svg?style=flat-square&logo=postman)](https://github.com/Fire162/Postman)
 
-Lightweight in-browser HTTP API client extension for testing and debugging REST endpoints on the fly without desktop application overhead. Supports `GET`, `POST`, `PUT`, `DELETE` with formatted JSON inspection.
+An in-browser REST client extension for testing endpoints directly in Chrome. Supports `GET`, `POST`, `PUT`, and `DELETE` requests with formatted JSON previews.
 
 **Tech:** `TypeScript` • `Chrome Extensions API` • `Fetch API` • `JSON Viewer`
 
@@ -113,53 +113,53 @@ Lightweight in-browser HTTP API client extension for testing and debugging REST 
 
 ---
 
-## 🛠️ What I Build & Capabilities
+## What I Build & Capabilities
 
-### 1. 🤖 AI & Intelligent Systems
+### 1. AI & Intelligent Systems
 
-* **[BrowserPilot](https://github.com/Fire162/browserpilot)** — Model Context Protocol (MCP) server & Chrome extension enabling remote VPS AI agents to orchestrate and control local desktop browsers.
-* **[Telegram Testing MCP Server (`telegram-mcp`)](https://github.com/telegram-mcp/telegram-mcp)** — Open-source Model Context Protocol (MCP) server enabling AI coding agents (Antigravity, Claude, Cursor) to autonomously test, send commands, click inline keyboards, and run end-to-end regression suites against Telegram bots via native MTProto.
-* **SpamShield Honeypot API** — Gemini 2.5 Flash-powered conversational AI honeypot that actively engages scammers in real time and automatically extracts structured threat intelligence (UPI IDs, bank accounts, phishing links).
-* **SpamVortex** — High-performance Telegram moderation server combining FastAPI, Aiogram, and ONNX computer vision / NLP models for automated spam filtering and NSFW media scanning.
-
----
-
-### 2. 🖥️ Developer Infrastructure & Linux Systems
-
-* **[Fire PM (`fire-pm`)](https://github.com/Fire-Package/fire-pm)** — Developer-focused Web UI and REST/SSE API for the Fire Process Manager. Directly interfaces with Linux `systemd` to provide real-time CPU/RAM metrics, process lifecycle controls, and live `journalctl` log streaming.
-* **Fire Tunnel** — Self-built tunneling system to expose local services securely and streamline deployment and remote debugging.
-* **VPS Automation & Reliability** — Automated backup pipelines, system monitoring, and shell scripts managing 24/7 background microservices.
+* **[BrowserPilot](https://github.com/Fire162/browserpilot)**: MCP server and Chrome extension that lets remote AI agents inspect and control desktop browser sessions.
+* **[Telegram Testing MCP Server (`telegram-mcp`)](https://github.com/telegram-mcp/telegram-mcp)**: MCP server that enables coding agents (Antigravity, Claude, Cursor) to run automated end-to-end tests against Telegram bots over MTProto.
+* **SpamShield Honeypot API**: A honeypot that uses Gemini Flash to converse with scammers in real time and extract UPI IDs, bank accounts, and phishing URLs.
+* **SpamVortex**: Telegram moderation bot using FastAPI, Aiogram, and ONNX models to filter spam and scan for NSFW media.
 
 ---
 
-### 3. 🧩 Browser Extensions & Focus Tools
+### 2. Developer Infrastructure & Linux Systems
 
-* **[Video Speed HUD & Watcher (PW Extension)](https://github.com/Fire162/PW-extension)** — Open-source Chromium extension featuring precision speed ramping, automatic silence skipping, and an on-screen study question timer.
-* **LectureLock** — Cross-platform desktop focus application (Electron) paired with a Manifest V3 companion extension to eliminate digital distractions during intensive study sessions.
-* **InstaPro Sender** — Manifest V3 browser extension for one-click Instagram Reel scheduling and automated asset publishing directly from the browser.
-* **[Postman Extension](https://github.com/Fire162/Postman)** — Lightweight in-browser HTTP client extension for rapid REST API testing (`GET`, `POST`, `PUT`, `DELETE`).
-
----
-
-### 4. ⚡ High-Scale Telegram Automation & Microservices
-
-* **Utility & Media Processing Fleet** — High-concurrency Telegram bots (`Image2PDF`, `pdf2img`, `Merge_PDFbot`, `Telegram-IP-Lookup-Bot`) handling image conversions, document merging, and network lookups for millions of users.
-* **Ads Tracker Bot** — Real-time monitoring and aggregation engine that parses advertising URLs and inline keyboard data across targeted channels with multi-hour reporting.
-* **Commerce & Transaction Microservices** — Bot architectures (`crypto2speak`, `escrow`) managing payment webhooks, membership validation, and broadcast scheduling.
+* **[Fire PM (`fire-pm`)](https://github.com/Fire-Package/fire-pm)**: Web UI and REST/SSE API for managing Linux `systemd` services with live telemetry and `journalctl` streaming.
+* **Fire Tunnel**: Lightweight tunneling tool to expose local services for remote testing and webhooks.
+* **VPS Automation**: Backup pipelines, monitoring scripts, and health checks for long-running services.
 
 ---
 
-### 5. 🌐 Full-Stack Web Applications & Media Automation
+### 3. Browser Extensions & Focus Tools
 
-* **[Practice Wegenz](https://github.com/Fire162/practice-wegenz)** — Full-featured academic examination and mock test practice platform featuring timed test suites, interactive palette, and PYQ microservice.
-* **YouTube Automation Dashboard (`yt-automation`)** — Full-stack web dashboard with background job queues, automated media downloading, thumbnail extraction, and chunked YouTube Data API v3 uploads.
-* **VedStudy Video Platform** — Self-hosted video streaming proxy server supporting DASH & HLS playback via Shaka Player with CloudFront proxying.
-* **Go & Study (Deep Work)** — Minimalist deep-work focus timer with distraction counters and session analytics.
-* **Modern Web Dashboards** — Responsive Next.js and TypeScript frontend dashboards for system management and analytics.
+* **[Video Speed HUD & Watcher (PW Extension)](https://github.com/Fire162/PW-extension)**: Chromium extension for video playback speed control, silence skipping, and an on-screen timer.
+* **LectureLock**: Electron desktop app and companion Chrome extension that blocks distracting sites during study sessions.
+* **InstaPro Sender**: Chrome extension for scheduling Instagram Reels and publishing media directly from the browser.
+* **[Postman Extension](https://github.com/Fire162/Postman)**: Quick in-browser REST client for `GET`, `POST`, `PUT`, and `DELETE` calls.
 
 ---
 
-## 🚀 Tech Stack
+### 4. Telegram Bots & Microservices
+
+* **Media Processing Fleet**: High-volume Telegram bots (`Image2PDF`, `pdf2img`, `Merge_PDFbot`, `Telegram-IP-Lookup-Bot`) handling image conversions, document merging, and network lookups.
+* **Ads Tracker Bot**: Scrapes ad URLs and inline button links across target channels with scheduled summaries.
+* **Commerce & Transaction Microservices**: Telegram bot backends (`crypto2speak`, `escrow`) for crypto payments, membership validation, and broadcast delivery.
+
+---
+
+### 5. Full-Stack Web Applications
+
+* **[Practice Wegenz](https://github.com/Fire162/practice-wegenz)**: Academic test preparation platform with timed exams, interactive question palette, and past-paper APIs.
+* **YouTube Automation Dashboard (`yt-automation`)**: Web dashboard with job queues for video downloads, thumbnail generation, and chunked YouTube uploads.
+* **VedStudy Video Platform**: Self-hosted video proxy supporting DASH and HLS playback with Shaka Player and CloudFront caching.
+* **Go & Study**: Focus timer with distraction tracking and session history.
+* **Web Dashboards**: Responsive Next.js and TypeScript admin panels for system management and analytics.
+
+---
+
+## Tech Stack
 
 ### Languages & Scripts
 <p>
@@ -183,22 +183,19 @@ Lightweight in-browser HTTP API client extension for testing and debugging REST 
 
 ---
 
-## 🤝 Open to Collaborations
+## Open to Collaborations
 
-Got a project or an idea that needs to be built?
+If you have a project or an idea to build, reach out:
 
-### **"Give me an idea, and I'll build, fund, and deploy it."**
-
-I can help with:
-* 🤖 **AI Agents & LLM Pipelines** (autonomous workflows, RAG, prompt engineering, tool calling)
-* ⚙️ **Backend Architecture & APIs** (Node.js, FastAPI, Flask, SSE, WebSockets)
-* ⚡ **Automation & Bots** (Telegram ecosystems, browser automation, scraping)
-* 🧩 **Browser Extensions & Desktop Apps** (Manifest V3, Electron)
-* 🖥️ **Linux Infrastructure & DevOps** (systemd, self-hosted services, VPS management, Nginx)
+* AI Agents & Tooling (agentic workflows, RAG, prompt pipelines, MCP servers)
+* Backend & APIs (Node.js, FastAPI, Flask, SSE, WebSockets)
+* Automation & Bots (Telegram bots, browser automation, scraping)
+* Browser Extensions & Desktop Apps (Manifest V3, Electron)
+* Linux Infrastructure (systemd services, self-hosted apps, VPS management, Nginx)
 
 ---
 
-## 💖 Support My Open-Source Work
+## Support My Open-Source Work
 
 If you find my projects or bots helpful, you can support my work via crypto:
 
@@ -212,7 +209,7 @@ If you find my projects or bots helpful, you can support my work via crypto:
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -229,10 +226,6 @@ If you find my projects or bots helpful, you can support my work via crypto:
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fire162&color=32B88D&style=flat-square)
-
-<br/><br/>
-
-### 🚀 Build something. Break something. Learn something.
 
 <br/>
 
